@@ -12,7 +12,7 @@ a{
 body {
     color: white;
     background-color: black;
-    background-image: url(assets\pattern-17.jpg);
+    background-image: url(pattern-17.jpg);
     background-repeat: repeat-y repeat-x;
     background-size: 400px;
     padding-top: 10px;
